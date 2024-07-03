@@ -31,3 +31,16 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.image-slider-container 
+{
+  margin: 50px auto;
+  width: 400px;
+}
+
+.image-slider-container .slick-prev:before,
+.image-slider-container .slick-next:before
+{
+  color: white;
+}
